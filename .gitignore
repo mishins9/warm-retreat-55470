@@ -3,4 +3,5 @@ __pycache__/
 portfolio/__pycache__/
 db.sqlite3
 venv/
+.env
 
